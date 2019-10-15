@@ -7,7 +7,7 @@ Portland State University Generic SEP 2.0 Client for DERAS
 * CPP: https://en.cppreference.com/w/
 * Style Guide: https://google.github.io/styleguide/cppguide.html
 * Design Patterns: https://refactoring.guru/design-patterns
-
+* Tutorials: https://www.hackerrank.com/dashboard
 
 ## Dependencies
 All dependencies should be located in your "/home/src" directory. If there are updates to one of the dependencies ensure it is modifed in this location.
