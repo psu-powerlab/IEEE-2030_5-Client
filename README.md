@@ -17,7 +17,7 @@ All dependencies should be located in your "/home/src" directory. If there are u
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install tmux git build-essential gcc g++ openssl
-cd /home
+cd
 mkdir src dev logs
 ```
 
@@ -38,6 +38,6 @@ Download and extract the boost libraries into the "/home/src" directory.
 https://www.boost.org/users/history/version_1_71_0.html
 
 ### IEEE 2030.5
-Download and extract the available IEEE 2030.5 downloads that provide example xml models.
+Download and extract the available IEEE 2030.5 downloads into the "/home/src" directory.
 
 https://standards.ieee.org/standard/2030_5-2018.html
